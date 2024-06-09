@@ -1,11 +1,11 @@
 {
-  "name": "call-of-cthulhu-7th-babele-pt-BR",
-  "title": "Call of Cthulhu 7th Babele Portuguese (Brazilian)",
-  "description": "Tradução do sistema Call of Cthulhu 7th por HavlockV/CoC7-FoundryVTT para Português (Brasil) usando Babele -  Call of Cthulhu 7th (HavlockV/CoC7-FoundryVTT) portuguese translation using Babele",
+  "name": "call-of-cthulhu-7th-babele-pl-skills",
+  "title": "Call of Cthulhu 7th Babele skill polish",
+  "description": "coc7 polish skills",
   "version": "0.4.7",
   "minimumCoreVersion" : "0.7.0",
   "compatibleCoreVersion":"0.7.9",
-  "author": "Vittor Guidoni Marianelli (Vittinho#8930)",
+  "author": "eNes",
   "esmodules": ["babele-register.js"],
   "scripts": [],
   "styles": [],
@@ -19,12 +19,12 @@
   "packs": [],
   "languages": [
     {
-      "lang": "pt-BR",
-      "name": "Português (Brasil)",
-      "path": "pt-BR.json"
+      "lang": "pl-PL",
+      "name": "Polish",
+      "path": "pl-Pl.json"
     }
   ],
-  "url": "https://github.com/lozalojo/call-of-cthulhu-7th-babele-pt-BR",
-  "manifest": "https://raw.githubusercontent.com/VittorGuidoni/call-of-cthulhu-7th-babele-pt-BR/main/module.json",
-  "download": "https://github.com/VittorGuidoni/call-of-cthulhu-7th-babele-pt-BR/archive/main.zip"
+  "url": "https://github.com/eNesPL/call-of-cthulhu-7th-babele-pl-skills",
+  "manifest": "https://raw.githubusercontent.com/eNesPL/call-of-cthulhu-7th-babele-pl-skills/main/module.json",
+  "download": "https://github.com/eNesPL/call-of-cthulhu-7th-babele-pl-skills/archive/refs/tags/test.zip"
 }
